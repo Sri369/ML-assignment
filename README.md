@@ -1,3 +1,2 @@
 # ML-assignment
-lab-10
-lab-8
+lab - 8,9,10 
